@@ -91,7 +91,7 @@ body {
   color: #0bb5f4;
   border-radius: 50%;
   margin-right: 15px;
-  font-size: 16px;
+  font-size: 22px;
   position: relative;
 }
 
@@ -104,13 +104,13 @@ body {
 }
 
 .resume .resume_left ul li .data {
-  color: #b1eaff;
+  color: white;
 }
 
 .resume .resume_left .resume_skills ul li {
   display: flex;
   margin-bottom: 10px;
-  color: #b1eaff;
+  color: white;
   justify-content: space-between;
   align-items: center;
 }
